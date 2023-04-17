@@ -6,6 +6,3 @@ Aprendendendo a linguagem de programação C fiz um jogo onde a maquina escolhe 
 | -------------  | --- |
 | :sparkles: Nome        | Jogo da adivinhação
 | :label: Tecnologias | C
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
